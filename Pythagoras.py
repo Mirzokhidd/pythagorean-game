@@ -1,3 +1,11 @@
+#Porject: Pythagoras
+#By: Mirzokhid Ganiev
+#Age: 16
+#Grade: 10 G
+#Date upon finishing: Friday, 12th February 2021 (12/02/2021)
+#Location: Osh,  kyrgyzstan
+
+
 #imports
 
 import math
